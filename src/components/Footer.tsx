@@ -46,7 +46,7 @@ function Footer() {
                 Backend Repository
               </a>
               <a
-                href="https://github.com/AlexSouzaSilvax/web-desempenho-aulas-dentranrj"
+                href="https://github.com/AlexSouzaSilvax/desempenho-aulas-dentranrj"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-gray-300"
