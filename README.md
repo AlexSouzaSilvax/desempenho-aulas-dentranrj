@@ -1,4 +1,4 @@
-# 🚗 Consulta do Desempenho de Aulas Auto Escola no Detran RJ
+# 🚗 Consulta Desempenho de Aulas de Auto Escola do Detran RJ
 _Consulta de aulas e provas de autoescola._
 
 <br>
